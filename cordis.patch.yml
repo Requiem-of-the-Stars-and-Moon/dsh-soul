@@ -1,0 +1,4 @@
+# Enabled bundles mount this plugin once. See README.md for installation.
+- insert:
+    - id: dsh-soul
+      name: dsh-soul
